@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Carolyn 👋
 
-<!--
-**carolyn-mooney/carolyn-mooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst working at the intersection of data, GIS and spatial analysis.  
+I use Python, SQL and ArcGIS to turn data into practical tools, analyses and applications.
 
-Here are some ideas to get you started:
+## 🗺️ GIS & Spatial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ArcGIS Online · Experience Builder · ArcGIS Pro · ArcGIS API for Python · ArcPy
+
+## 📊 Data
+
+Python · SQL · Jupyter
+
+## 🔨 What I build
+
+- GIS automation workflows
+- Spatial analyses
+- Data pipelines
+- Interactive GIS applications
+- Data-driven tools for decision-making
